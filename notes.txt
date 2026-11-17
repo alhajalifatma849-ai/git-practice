@@ -1,0 +1,2 @@
+Notes: Git records the history of my project.
+Git has three areas: working directory, staging area, and repository.
