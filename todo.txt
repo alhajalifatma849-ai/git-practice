@@ -1,0 +1,2 @@
+1. Create a feature branch
+2. Push it and open a pull request
